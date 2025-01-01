@@ -8,9 +8,9 @@ Generative Adversarial Networks, or GANs for short, are an approach to generativ
 
 ![alt text](https://miro.medium.com/max/2164/1*CcqEeJAa6cOBP8a713YR-w.png)
 
-The output of the SR_GAN could be compared as follows. To know more about the residual deep network (https://arxiv.org/abs/1809.00219)
+<!-- The output of the SR_GAN could be compared as follows. To know more about the residual deep network (https://arxiv.org/abs/1809.00219)
 
-![alt text](https://miro.medium.com/max/2068/1*7doTQzPZSn3TYFR8xY2FuA.png)
+![alt text](https://miro.medium.com/max/2068/1*7doTQzPZSn3TYFR8xY2FuA.png) -->
 
 ## Dependencies
 * ISR - python module 
