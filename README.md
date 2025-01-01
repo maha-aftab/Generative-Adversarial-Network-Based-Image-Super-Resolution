@@ -26,9 +26,3 @@ The output of the SR_GAN could be compared as follows. To know more about the re
 
 ## Run
 Install the requirements, then run the app.py file. 
-
-## Reference
-* https://github.com/tensorlayer/srgan
-* https://github.com/deepak112/Keras-SRGAN
-* https://github.com/leftthomas/SRGAN
-* https://github.com/idealo/image-super-resolution#pre-trained-networks
